@@ -1,6 +1,9 @@
 <template>
     <div>
-        <h1>About Page</h1>
-        <Card />
+        <h1 class="under">About Pagesdsd</h1>
+        <NuxtLink to="/">
+            home page
+        </NuxtLink>
+        <Cacaprou />
     </div> 
 </template>
