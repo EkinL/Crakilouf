@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.uSpinMyHeadRightNowOhWow{
+    animation: tourner 2s linear infinite;
+}
+
+@keyframes tourner {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
