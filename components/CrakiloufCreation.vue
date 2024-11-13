@@ -4,7 +4,7 @@
     </div>
     <article>
         <div>
-            <h2>Pourquoi Crakilouf a vue le jour ?</h2>
+            <h2>test Pourquoi Crakilouf a vue le jour ?</h2>
         </div>
         <div>
             <p>Bienvenue sur Crakilouf, votre guide vers un mode de vie zéro déchet ! Chez Crakilouf, nous croyons qu’adopter une démarche zéro déchet est bien plus qu’une tendance, c’est un engagement essentiel pour réduire notre impact environnemental et contribuer à un avenir plus durable. Le zéro déchet vise à minimiser les déchets à la source en privilégiant le réemploi, la réduction des emballages, et une consommation consciente.</p>
