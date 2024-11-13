@@ -14,3 +14,24 @@
         transform: rotate(360deg);
     }
 }
+
+#card-container {
+    width: 400px;
+    background-color: #80808045;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+#card-title > h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+div#card-post-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+div#card-description {
+    height: 150px;
+}
