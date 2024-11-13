@@ -115,6 +115,7 @@
     { name: 'Articles', href: '/articles', current: false },
     { name: 'Crakilouf', href: '/crakilouf', current: false },
     { name: 'About', href: '/about', current: false },
+    { name: 'Contact', href: '/contact', current: false },
   ]
   const userNavigation = [
     { name: 'Your Profile', href: '#' },
