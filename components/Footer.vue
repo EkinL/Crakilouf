@@ -1,21 +1,7 @@
-<!--
-  This example requires some changes to your config:
-  
-  ```
-  // tailwind.config.js
-  module.exports = {
-    // ...
-    plugins: [
-      // ...
-      require('@tailwindcss/forms'),
-    ],
-  }
-  ```
--->
 <template>
   <footer class="bg-white" aria-labelledby="footer-heading">
     <h2 id="footer-heading" class="sr-only">Footer</h2>
-    <div class="mx-auto max-w-7xl px-6 pb-8 pt-16 sm:pt-24 lg:px-8 lg:pt-32">
+    <div class="mx-auto px-6 pb-8 pt-16 sm:pt-24 lg:pt-32">
       <div class="xl:grid xl:grid-cols-3 xl:gap-8">
         <img class="h-7" src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600" alt="Company name" />
         <div class="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
