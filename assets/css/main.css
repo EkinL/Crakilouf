@@ -35,3 +35,11 @@ div#card-post-info {
 div#card-description {
     height: 150px;
 }
+
+.article-about{
+    display: flex;
+}
+
+.article-about > aside{
+    width: 100%;
+}
