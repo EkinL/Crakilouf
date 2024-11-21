@@ -13,6 +13,7 @@
     "@headlessui/vue": "^1.7.23",
     "@heroicons/vue": "^2.1.5",
     "@nuxt/image": "^1.8.1",
+    "@nuxtjs/seo": "^2.0.0-rc.23",
     "@vue-hero-icons/outline": "^1.7.2",
     "@vue-hero-icons/solid": "^1.7.2",
     "nuxt": "^3.13.0",
