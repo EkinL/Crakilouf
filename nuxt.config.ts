@@ -11,6 +11,7 @@ export default defineNuxtConfig({
     },
   },
 
+  modules: ['nuxt-gtag', '@nuxt/image'],
   modules: ['nuxt-gtag', '@nuxtjs/seo'],
 
   gtag: {
