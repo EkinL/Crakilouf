@@ -231,7 +231,7 @@ definePageMeta({
             <div class="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
               <div class="flex">
                 <div class="relative flex items-center gap-x-4 rounded-full bg-white px-4 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-                  <span class="font-semibold text-indigo-600">We’re hiring</span>
+                  <span class="font-semibold text-indigo-600">Crakilouf</span>
                   <span class="h-4 w-px bg-gray-900/10" aria-hidden="true" />
                   <a href="#" class="flex items-center gap-x-1">
                     <span class="absolute inset-0" aria-hidden="true" />
