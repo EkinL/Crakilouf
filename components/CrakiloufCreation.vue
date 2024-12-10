@@ -36,7 +36,7 @@
                 <img alt="Éco-responsabilité et Crakilouf" src="assets/images/etudeEnvironnementale.svg" class="block size-full object-contains" />
               </div>
               <div class="aspect-square overflow-hidden rounded-xl outline-1 -outline-offset-1 outline-black/10">
-                <img alt="Produits zéro déchet Crakilouf" src="assets/images/cœurBrise.svg" class="block size-full object-contains" />
+                <img alt="Produits zéro déchet Crakilouf" src="assets/images/coeurBrise.svg" class="block size-full object-contains" />
               </div>
               <div class="m-2 -mt-8 aspect-square overflow-hidden rounded-xl outline-1 -outline-offset-1 outline-black/10 lg:-mt-40">
                 <img alt="Alternatives zéro déchet Crakilouf" src="assets/images/IllustrationAmitie.svg" class="block size-full object-contains" />

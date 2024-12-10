@@ -1,10 +1,6 @@
 <template>
     <div>
-        <h1 class="under">Articles</h1>
-        <Card />
-        <NuxtLink to="/">
-            home page
-        </NuxtLink>
+        <Article />
     </div> 
 </template>
 
