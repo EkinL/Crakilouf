@@ -2,7 +2,7 @@
   const navigation = [
     { name: 'Home', href: '/' },
     { name: 'About', href: '/about' },
-    { name: 'Contact', href: '/contact' },
+    { name: 'Article', href: '/articles' },
   ]
 
   export default {
@@ -65,5 +65,6 @@
         </Dialog>
       </header>
       <slot />
+      <Footer />
     </div>
   </template>

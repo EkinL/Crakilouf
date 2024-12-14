@@ -1,17 +1,14 @@
-<!--
-  This example requires some changes to your config:
-  
-  ```
-  // tailwind.config.js
-  module.exports = {
-    // ...
-    plugins: [
-      // ...
-      require('@tailwindcss/forms'),
-    ],
-  }
-  ```
--->
+<script setup lang="ts">
+definePageMeta({
+  layout: 'custom'
+})
+
+import { ref } from 'vue'
+import { ChevronDownIcon } from '@heroicons/vue/20/solid'
+import { Switch, SwitchGroup, SwitchLabel } from '@headlessui/vue'
+
+const agreed = ref(false)
+</script>
 <template>
   <div class="isolate bg-white px-6 py-24 sm:py-32 lg:px-8">
     <div class="absolute inset-x-0 top-[-10rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[-20rem]" aria-hidden="true">
@@ -87,11 +84,3 @@
     </form>
   </div>
 </template>
-
-<script setup>
-import { ref } from 'vue'
-import { ChevronDownIcon } from '@heroicons/vue/20/solid'
-import { Switch, SwitchGroup, SwitchLabel } from '@headlessui/vue'
-
-const agreed = ref(false)
-</script>
